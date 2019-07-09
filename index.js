@@ -1,5 +1,5 @@
-import './env';
-import Server from './server';
+import './src/env';
+import Server from './src/server';
 
 const port = process.env.PORT || 4000;
 Server.express.listen(port, () =>
