@@ -32,7 +32,7 @@
     "mongodb-memory-server": "3.0.0"
   },
   "dependencies": {
-    "apollo-server-express": "^2.4.6",
+    "apollo-server-express": "^2.14.2",
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
     "graphql": "^14.1.1",
